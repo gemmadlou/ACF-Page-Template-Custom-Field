@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Advanced Custom Fields: Page Template
-Plugin URI: PLUGIN_URL
+Plugin URI: https://github.com/gemmadlou/ACF-Page-Template-Custom-Field
 Description: Page Template Custom Field
 Version: 1.0.0
 Author: Gemma Black
